@@ -1,0 +1,16 @@
+MuJoCo Pro Lab license activation key, number 7258, type 6.
+Issued to Deep Multi-Task and Meta Learning, Prof. Finn, Stanford.
+Expires December 1, 2020.
+Do not share this file with anyone other than the users covered
+by your license agreement with Roboti LLC. This file activates
+MuJoCo Pro on any computer running any supported OS.
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+0092302e5c39ad4fb2697350159c9f74fec6b670916464ce26632adb0eb47e7f
+cc6aca3cbeab21ad5ee9faf3913c15f9ffb11c849441d6f99696b63d40ff08c6
+c1a79d41264b44585ad6ab4a7508fe1585898cc274215abbcf8ccb4229d3ea7f
+ff2cdccf3033e4bfb54c1c73359e8e81e1fbc0cf714d39f9141d339f14626b1a
+3f23c03512b4fb0836d9eafa5075c2cad2756c725532d255d6f4ef2d43024f35
+08511e3e0808bb841a570e006b49bd12bde824987bcb7b5f25caa81f33ea31e8
+2e4783e2ce64ab2552569b0f1051fdeb0a751d478b4c1bf04e3b939d2a197a8d
+fff96d017d25fca5d8d22cf7e1d74b9a2cc49a0415a40e7f63a661a8055f3005
