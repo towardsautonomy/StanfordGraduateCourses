@@ -1,7 +1,15 @@
 __pycache__
 
+# folders
 tmp
+checkpoints
+data
 
+# files
 *.zip
 *.pkl
 *.pth
+*.pt
+*.pth
+*.bin
+*.mat
