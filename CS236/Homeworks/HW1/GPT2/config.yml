@@ -1,0 +1,10 @@
+seed: 20190929
+vocab_size: 50257
+n_positions: 1024
+n_ctx: 1024
+n_embd: 768
+n_layer: 12
+n_head: 12
+layer_norm_epsilon: 0.00001
+initializer_range: 0.02
+top_k: 40

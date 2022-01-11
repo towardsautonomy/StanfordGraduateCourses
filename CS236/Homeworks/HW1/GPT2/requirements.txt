@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pyyaml
+torch
+tqdm
+regex
