@@ -4,12 +4,22 @@ __pycache__
 tmp
 checkpoints
 data
+mujoco
+multiworld
+results
+out
+runs
 
 # files
 *.zip
 *.pkl
+*.pickle
+*.npy
 *.pth
 *.pt
 *.pth
-*.bin
+*.bin*
 *.mat
+*.tfevents*
+*.params
+workspace.code-workspace
